@@ -13,6 +13,8 @@ One of the biggest questions we wanted to answer for our stakeholders is "Who is
 
 ![2](https://user-images.githubusercontent.com/107658895/191388820-404d4071-692d-4d13-9cd5-33fd6636263e.png)
 
+Next, we wanted to figure the bike traffic. A heatmap was chosen to help show the patterns by weekday. It was noted that during the weekdays there was heavy usuages before getting to work (around 8AM)  Once again we can see the heavy bike usage during **weekday commute times**, and weekend usage is spread throughout the middle of the day. An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours, every day of the week.
+
 ![3](https://user-images.githubusercontent.com/107658895/191388910-8cbc291d-8a0e-4bd6-918d-dc69a6cd0ac3.png)
 
 ![4](https://user-images.githubusercontent.com/107658895/191389027-f84dea53-1e6a-44b6-8dff-6be52d1b60ca.png)
