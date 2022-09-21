@@ -13,39 +13,17 @@ One of the biggest questions we wanted to answer for our stakeholders is "Who is
 
 ![2](https://user-images.githubusercontent.com/107658895/191388820-404d4071-692d-4d13-9cd5-33fd6636263e.png)
 
-Next, we wanted to figure the bike traffic. A heatmap was chosen to help show the patterns by weekday. It was noted that during the weekdays there was heavy usuages right before regular work hours (around 8AM) and right after work hours (around 5PM, **Wednesdays seemed to be an exception** ). An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours, every day of the week.
+Next, we wanted to figure the bike traffic. A heatmap was chosen to help show the patterns by weekday. It was noted that during the weekdays there was heavy usuages right before regular work hours (around 8AM) and right after work hours (around 5PM, **Wednesdays seemed to be an exception**).
 
 ![3](https://user-images.githubusercontent.com/107658895/191388910-8cbc291d-8a0e-4bd6-918d-dc69a6cd0ac3.png)
 
+Similarly like before, we wanted to figure out "Which gender provides the most traffic throughout the week". In the figure below we can see similar trends between the groups, but slighly more active amongst males.
+
 ![4](https://user-images.githubusercontent.com/107658895/191389027-f84dea53-1e6a-44b6-8dff-6be52d1b60ca.png)
 
+Finally, we wanted to see the significant differences between the userbase (**Subscriber vs Customers**). The data shows that a subscriber tends to be consitently more active throughout the week than a customer. There was even more activity with the Female Subscriber group than the Male Customer (**the dominant group**). This tells use that a subscriber is going to use the subscription. It'd be interesting to see how long it takes a customer to go from Customer to Subsriber to measure a sort of customer progression/satisfaction rating.  
+
 ![5](https://user-images.githubusercontent.com/107658895/191389120-25b8762e-b495-4f32-8787-992dcb80b959.png)
-
-
-
-
-
-
-
-In this congressional election, there were 369,711 votes that were cast. Provided below are the counties with the largest number of votes in decending order:
-* Denver
-  * 306,055 votes (82.8%)
-* Jefferson 
-  * 38,855 votes (10.5%)
-* Arapahoe
-  * 24,801 votes (6.7%)
-
-Below is a breakdown of the number of votes and their respective percentage of the total votes each candidate recieved. The canidate that won was Diana DeGette and the runners up in decending order by total votes are shown below:
-* Diana DeGette
-  * 272,892 votes (73.8%)    
-* Charles Casper Stockham
-  * 85,213 votes (23.0%)
-* Raymon Anthony Doane
-  * 11,606 votes (3.1%)
-
-### Election Results Summary
-![election_results](https://user-images.githubusercontent.com/107658895/176082445-ede641f1-8329-431c-8e59-a02f2ff13f01.png)
-##### Figure 1 above displays the election results that were printed on the terminal and text file
 
 
 This Tableau story can be seen here, [at this link](https://public.tableau.com/app/profile/fermin.banuelos/viz/BikesShares/Story1?publish=yes).
