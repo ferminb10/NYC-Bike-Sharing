@@ -9,8 +9,21 @@ The analysis had few tasks. For deliverable 1, a CVS file was extracted from a N
 
 ![1](https://user-images.githubusercontent.com/107658895/191388669-ec24281b-0d92-4f12-ad58-f22a974fde42.png)
 
-time of day are bikes used the most and the least?
 - How much are the bikes used and by whom?
+
+![2](https://user-images.githubusercontent.com/107658895/191388820-404d4071-692d-4d13-9cd5-33fd6636263e.png)
+
+![3](https://user-images.githubusercontent.com/107658895/191388910-8cbc291d-8a0e-4bd6-918d-dc69a6cd0ac3.png)
+
+![4](https://user-images.githubusercontent.com/107658895/191389027-f84dea53-1e6a-44b6-8dff-6be52d1b60ca.png)
+
+![5](https://user-images.githubusercontent.com/107658895/191389120-25b8762e-b495-4f32-8787-992dcb80b959.png)
+
+
+
+
+
+
 
 In this congressional election, there were 369,711 votes that were cast. Provided below are the counties with the largest number of votes in decending order:
 * Denver
