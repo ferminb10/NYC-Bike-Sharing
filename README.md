@@ -28,7 +28,8 @@ Below is a breakdown of the number of votes and their respective percentage of t
 ##### Figure 1 above displays the election results that were printed on the terminal and text file
 
 
-This Tableau story can be seen here, https://public.tableau.com/app/profile/fermin.banuelos/viz/BikesShares/Story1?publish=yes
+This Tableau story can be seen here, [at this link](https://public.tableau.com/app/profile/fermin.banuelos/viz/BikesShares/Story1?publish=yes).
+
 
 
 ## Summary
