@@ -29,6 +29,6 @@ Finally, we wanted to see the significant differences between the userbase (**Su
 This Tableau story can be seen here, [at this link](https://public.tableau.com/app/profile/fermin.banuelos/viz/BikesShares/Story1?publish=yes).
 
 
-
 ## Summary
-Based on the functionality of this script, it's propose can be used for other elections big or small. It would be an interesting parameter to see the geographical location of each person who voted and create a heat map. This will give valuable information of where to do more outreaching to get a more wholistic representation of the local population. The limitations of this dataset are that they only limit a few parameters. It would also be interesting to see the age groups and genders that participated in the election so that the parties can go about better strategizing for target audiences they struggled. 
+
+In conclusion, bike sharing services are crucial in busy metropolitan areas. The current user base is made up mostly of male subscribers, but it's critical to invest now because there's a big opportunity with the female market. Where most of the capital will be made is right before and after regular work hours. I'd love to see where this buisness can go and learn more about our userbase. An investigation should be done to see how satisfied the subscriber base is and how long it took them to transition from customer.
