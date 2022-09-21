@@ -5,7 +5,9 @@ This weeks challenge helps us build upon our skills learned in the Tableau modul
 client wanted additional information analyzed from the election results. For the analysis, Pandas was used to change the "tripduration" column (extracted from NYC's Bike sharing database) from an integer to a datetime datatype. Using the converted datatype, a set of visualizations were made describing: the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week. To concluded, the visualizations created in this analysis were used to pitch to investors.
 
 ## Results
-The analysis had few tasks. For deliverable 1, a CVS file was extracted from a NYC bike sharing database to convert the trip duration datatype to one that can be easily analyzed through Tableau. Doing so helped us determine the number of bikes being used within the first few hours of the trip duration. 
+The analysis had few tasks. For deliverable 1, a CVS file was extracted from a NYC bike sharing database to convert the trip duration datatype to one that can be easily analyzed through Tableau. Doing so helped us determine the number of bikes being used within the first few hours of the trip duration, as shown below.
+
+![1](https://user-images.githubusercontent.com/107658895/191388669-ec24281b-0d92-4f12-ad58-f22a974fde42.png)
 
 time of day are bikes used the most and the least?
 - How much are the bikes used and by whom?
