@@ -9,7 +9,7 @@ The analysis had few tasks. For deliverable 1, a CVS file was extracted from a N
 
 ![1](https://user-images.githubusercontent.com/107658895/191388669-ec24281b-0d92-4f12-ad58-f22a974fde42.png)
 
-- How much are the bikes used and by whom?
+One of the biggest questions we wanted to answer for our stakeholders is "Who is our main support and who can we improve on marketing for". The visual below shows the number of bikes being used within the first few hours of the trip duration by gender. It was interesting to see there was a significant gap between males and females. 
 
 ![2](https://user-images.githubusercontent.com/107658895/191388820-404d4071-692d-4d13-9cd5-33fd6636263e.png)
 
