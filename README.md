@@ -2,7 +2,7 @@
 To uncover NYC Bike sharing trends with Tableau's visualization tools
 ## Overview of Project
 This weeks challenge helps us build upon our skills learned in the Tableau module. We were tasked to convince investors that a bike-sharing program in Des Moines is a great investment opportunity. One of the key stakeholders wanted to see a bike trip analysis to solidify the solid buisness proposal.
-client wanted additional information analyzed from the election results. For this analysis, Pandas was used to change the "tripduration" column from an integer to a datetime datatype. Using the converted datatype, a set of visualizations to: To concluded, the visualizations created in this analysis were used to pitch to investors.
+client wanted additional information analyzed from the election results. For the analysis, Pandas was used to change the "tripduration" column (extracted from NYC's Bike sharing database) from an integer to a datetime datatype. Using the converted datatype, a set of visualizations were made describing: the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week. To concluded, the visualizations created in this analysis were used to pitch to investors.
 
 ## Results
 The analysis had few tasks. For deliverable 1, votes for counties and candidates and the winning election results were required to be printed on the terminal, shown in Figure 1. Deliverable 2 required this data to be generated in a text file. It was a key element to generate dictionaries and lists with the data contained in CVS file to fulfill the requirements.
