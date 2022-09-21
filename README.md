@@ -5,7 +5,10 @@ This weeks challenge helps us build upon our skills learned in the Tableau modul
 client wanted additional information analyzed from the election results. For the analysis, Pandas was used to change the "tripduration" column (extracted from NYC's Bike sharing database) from an integer to a datetime datatype. Using the converted datatype, a set of visualizations were made describing: the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week. To concluded, the visualizations created in this analysis were used to pitch to investors.
 
 ## Results
-The analysis had few tasks. For deliverable 1, votes for counties and candidates and the winning election results were required to be printed on the terminal, shown in Figure 1. Deliverable 2 required this data to be generated in a text file. It was a key element to generate dictionaries and lists with the data contained in CVS file to fulfill the requirements.
+The analysis had few tasks. For deliverable 1, a CVS file was extracted from a NYC bike sharing database to convert the trip duration datatype to one that can be easily analyzed through Tableau. Doing so helped us determine the number of bikes being used within the first few hours of the trip duration. 
+
+time of day are bikes used the most and the least?
+- How much are the bikes used and by whom?
 
 In this congressional election, there were 369,711 votes that were cast. Provided below are the counties with the largest number of votes in decending order:
 * Denver
